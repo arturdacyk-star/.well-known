@@ -1,8 +1,11 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.arturdacyk_star.twa",
-        "sha256_cert_fingerprints": ["70:93:84:96:FC:E7:1D:46:A8:25:CA:4A:00:DA:98:D2:0C:B1:7C:76:3A:E7:A0:CB:20:7D:C2:24:02:CD:98:65"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.arturdacyk_star.twa",
+      "sha256_cert_fingerprints":
+        ["64:AD:91:A8:34:DB:CC:5F:39:1E:EA:65:D5:B9:91:C3:70:5F:1C:05:4B:F0:4B:0E:05:4A:67:AE:06:61:AD:B6"]
+    }
+  }
+]
